@@ -80,3 +80,8 @@ As a result - no exe file will be generated.
                 </executions>
             </plugin>
 ```
+
+Reference:
+Add ci: https://github.com/Mythologyli/LPAdesktop
+Use gregvish/LPAd_SM-DPPlus_Connector fix Truphone#6: https://github.com/bigmangos/LPAdesktop
+Add more code to fix something: https://github.com/kitandara/LPAdesktop
